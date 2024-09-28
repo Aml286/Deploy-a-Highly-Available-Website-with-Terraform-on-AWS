@@ -83,4 +83,4 @@ Before completing the Lab instructions, the environment will look as follows:
 
 After completing the Lab instructions, the environment should look similar to:
 
-![after elb](https://github.com/user-attachments/assets/94c6832d-4d8b-44ef-a64e-22eb50d5b498)
+![after elb](https://github.com/Aml286/Deploy-a-Highly-Available-Website-with-Terraform-on-AWS/blob/main/after%20elb.png)
