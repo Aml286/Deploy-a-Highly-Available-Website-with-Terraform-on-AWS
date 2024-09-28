@@ -78,7 +78,7 @@ This project shows how to deploy a highly available and scalable website on AWS 
 
 Before completing the Lab instructions, the environment will look as follows:
 
-![Before ELB](https://github.com/Aml286/Deploy-a-Highly-Available-Website-with-Terraform-on-AWS/blob/main/before%20ELB.png?raw=true)
+![before ELB](https://github.com/user-attachments/assets/a5c67833-53d6-413e-8914-a7eede433f44)
 
 After completing the Lab instructions, the environment should look similar to:
 
