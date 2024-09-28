@@ -38,6 +38,7 @@ Ensure you have the following before proceeding:
 - **AWS CLI Configured** with credentials for your AWS account.
 
 ---
+![image](https://github.com/user-attachments/assets/1fd76075-29fb-4971-b4b5-4efe985e40b4)
 
 ## 🚀 How to Use
 
@@ -77,7 +78,6 @@ terraform destroy -target=aws_security_group.elb_sg
 This project shows how to deploy a highly available and scalable website on AWS using Terraform. The infrastructure automation provided by Terraform makes resource management, updates, and decommissioning efficient and straightforward.
 
 Before completing the Lab instructions, the environment will look as follows:
-![image](https://github.com/user-attachments/assets/1fd76075-29fb-4971-b4b5-4efe985e40b4)
 
 
 ![before ELB](https://github.com/user-attachments/assets/a5c67833-53d6-413e-8914-a7eede433f44)
