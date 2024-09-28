@@ -77,8 +77,9 @@ terraform destroy -target=aws_security_group.elb_sg
 This project shows how to deploy a highly available and scalable website on AWS using Terraform. The infrastructure automation provided by Terraform makes resource management, updates, and decommissioning efficient and straightforward.
 
 Before completing the Lab instructions, the environment will look as follows:
+![Before ELB](https://github.com/Aml286/Deploy-a-Highly-Available-Website-with-Terraform-on-AWS/blob/main/before%20ELB.png?raw=true)
 
-![Website Architecture](https://github.com/Aml286/Deploy-a-Highly-Available-Website-with-Terraform-on-AWS/blob/main/before%20ELB.png)
+
 
 After completing the Lab instructions, the environment should look similar to:
 
