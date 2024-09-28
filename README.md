@@ -78,7 +78,7 @@ This project shows how to deploy a highly available and scalable website on AWS 
 
 Before completing the Lab instructions, the environment will look as follows:
 
-![Website Architecture](https://assets.platform.qa.com/bakery/media/uploads/entity/blobid0-bb6ce2a2-0d0b-4a17-884f-ba713bdee55e.png)
+![Website Architecture](before ELB.png)
 
 After completing the Lab instructions, the environment should look similar to:
 
