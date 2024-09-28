@@ -3,6 +3,12 @@
 
 This project demonstrates deploying a highly available website on AWS using Terraform to manage the infrastructure. The setup consists of EC2 instances serving a custom PHP website, and traffic is distributed using an Elastic Load Balancer (ELB) for high availability.
 
+Before completing the Lab instructions, the environment will look as follows:
+![before ELB](https://github.com/user-attachments/assets/26db8ee2-6f4c-4c68-9089-6dd99b6a19e3)
+After completing the Lab instructions, the environment should look similar to:
+
+![after elb](https://github.com/user-attachments/assets/4d53c945-d778-4dc0-8455-02295f636c6a)
+
 ---
 
 ## 📝 Project Overview
@@ -76,12 +82,3 @@ If you want to destroy specific resources (e.g., the ELB security group):
 terraform destroy -target=aws_security_group.elb_sg
 📊 Conclusion
 This project shows how to deploy a highly available and scalable website on AWS using Terraform. The infrastructure automation provided by Terraform makes resource management, updates, and decommissioning efficient and straightforward.
-
-Before completing the Lab instructions, the environment will look as follows:
-
-
-![before ELB](https://github.com/user-attachments/assets/a5c67833-53d6-413e-8914-a7eede433f44)
-
-After completing the Lab instructions, the environment should look similar to:
-
-![after elb](https://github.com/Aml286/Deploy-a-Highly-Available-Website-with-Terraform-on-AWS/blob/main/after%20elb.png)
